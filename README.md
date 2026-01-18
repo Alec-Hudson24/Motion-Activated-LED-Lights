@@ -24,7 +24,7 @@
 - 3D printing enables fast custom enclosures — prototype early, iterate on fit/cable routing, and test mounting strength.
 
 ## Project Links  
-- Arduino Code: [Code]()
+- Arduino Code: [Code](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/LEDStrip_MotionController.ino)
 - 3D Printable Holder (STEP): [STEP File]()  
 
 ## Future Improvements / Ideas
