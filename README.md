@@ -34,8 +34,10 @@
 - Upgrade to addressable LEDs (WS2812B) for color effects 
 - Make enclosure more compact or add battery backup for power outages
 
-# Model Photo
+# Project Photos
 ![Closet Lights](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Lights%20On.jpeg)
 ![Closet Dark](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Lights%20Off.jpeg)
+![Circuit Diagram](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/arduino%20Circuit%20Diagram.PNG)
+![Wiring Setup](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Wiring%20Setup.jpg)
 
 *This was a personal DIY home improvement project*
