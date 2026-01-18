@@ -25,7 +25,8 @@
 
 ## Project Links  
 - Arduino Code: [Code](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/LEDStrip_MotionController.ino)
-- 3D Printable Holder (STEP): [STEP File]()  
+- 3D Printable Holder (STEP): [STEP File](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Protoboard%20and%20Arduino%20Holder.STEP)
+- 3D Printable Lid (STEP): [STEP File](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Lid%20For%20Holder.STEP)
 
 ## Future Improvements / Ideas
 - Add adjustable timeout via potentiometer or app (e.g., via Bluetooth module & chaning microcontroller to a ESP32)
