@@ -13,7 +13,7 @@
 
 ## Programs and skills required
 - **3D Modeling & Design**: SolidWorks (parametric design of wall holder, STL export for 3D printing)
-- **Electronics**: Wall outlet installation (wiring and safety basics), MOSFET integration for LED control, PIR sensor wiring to Arduino Uno Rev 3
+- **Electronics**: Wall outlet installation (wiring and safety basics), MOSFET integration for LED control, Soldering to protoboard, PIR sensor wiring to Arduino Uno Rev 3
 - **Programming**: Arduino IDE (reading PIR digital output, implementing delay/timer logic for LED on/off, basic debouncing if needed)
 - **Other**: 3D printing (slicing and printing the enclosure), hardware assembly, testing in real environment, electrical safety practices
 
@@ -35,7 +35,7 @@
 - Make enclosure more compact or add battery backup for power outages
 
 # Model Photo
-![Closet Lights]()
-
+![Closet Lights](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Lights%20On.jpeg)
+![Closet Dark](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Lights%20Off.jpeg)
 
 *This was a personal DIY home improvement project*
