@@ -41,3 +41,5 @@
 ![Wiring Setup](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/blob/main/Wiring%20Setup.jpg)
 
 *This was a personal DIY home improvement project*
+
+[Back](https://github.com/Alec-Hudson24/Project-Archive/blob/main/README.md)
